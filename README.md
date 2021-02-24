@@ -52,3 +52,8 @@ struct Array2d {
 hueMin, hueMax, satMin, satMax, rThresh, grayThresh
 ``` 
 #### structure the constant values, allocate and read
+# References
+Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
+<ul><li>Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao</li></ul>
+Deep Learning with Cpp
+https://laptrinhx.com/deep-neural-network-from-scratch-in-c-for-learning-purposes-1380712153/
