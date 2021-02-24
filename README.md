@@ -6,5 +6,7 @@ C++ implementation of a "count face" script that counts the faces in an input pi
   <li>load pretained weight and bias</li>
   <li>design a multilayer perceptor</li>
 </ul>
-<b>Code Structure</b>
+
+```
 define getchar
+```
