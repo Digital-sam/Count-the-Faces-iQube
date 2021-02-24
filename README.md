@@ -7,8 +7,48 @@ C++ implementation of a "count face" script that counts the faces in an input pi
   <li>design a multilayer perceptor</li>
 </ul>
 
-# Code structure
-
+## Code structure
+#### define characters 
+Get character from stdin. Returns the next character from the standard input (stdin)
 ```
 define getchar
 ``` 
+#### get and resizes the input dimension
+```
+struct Mat1d
+``` 
+#### initialize weight and biases
+```
+stringa0, stringa1
+``` 
+#### iterate through the string and return a vector
+```
+template<class T> vector<T> split_number(string in)
+``` 
+#### Initializes a new instance of the Array2D
+```
+struct Array2d {
+``` 
+#### Resize the dimension and transfer the generated 2D array to an external array
+```
+struct Transfer {
+    Array2d W;
+``` 
+#### initialize softmax classifier
+```
+softmax(Array2d& dst, const Array2d& src) 
+``` 
+#### structure the multi layer perceptron; two hidden layers is developed
+```
+struct MLP {
+    double eta;
+``` 
+#### Initializes a new instance of the Array2D
+```
+struct Array2d {
+```
+#### define the color structure as the tunning parameters
+```
+hueMin, hueMax, satMin, satMax, rThresh, grayThresh
+``` 
+#### structure the constant values, allocate and read
