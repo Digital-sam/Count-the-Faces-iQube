@@ -7,6 +7,6 @@ C++ implementation of a "count face" script that counts the faces in an input pi
   <li>design a multilayer perceptor</li>
 </ul>
 <b>Code structure</b>
-```
+<p> ```
 define getchar
-```
+``` </p>
