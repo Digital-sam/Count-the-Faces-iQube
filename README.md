@@ -56,4 +56,4 @@ hueMin, hueMax, satMin, satMax, rThresh, grayThresh
 Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
 <ul><li>Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao</li></ul>
 Deep Learning with Cpp
-https://laptrinhx.com/deep-neural-network-from-scratch-in-c-for-learning-purposes-1380712153/
+<ul><li>https://laptrinhx.com/deep-neural-network-from-scratch-in-c-for-learning-purposes-1380712153/</li></ul>
