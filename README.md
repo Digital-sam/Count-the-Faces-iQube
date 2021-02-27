@@ -3,7 +3,7 @@ C++ implementation of a "count face" script that counts the faces in an input pi
 # Approach
 <ul>
   <li>resize each image</li>
-  <li>load pretained weight and bias</li>
+  <li>load strings of weight and biases</li>
   <li>design a multilayer perceptor</li>
 </ul>
 
