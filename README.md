@@ -17,7 +17,7 @@ define getchar
 ```
 struct Mat1d
 ``` 
-#### initialize weight and biases
+#### declare weight and biases(as a string)
 ```
 stringa0, stringa1
 ``` 
@@ -57,3 +57,4 @@ Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Netwo
 <ul><li>Kaipeng Zhang, Zhanpeng Zhang, Zhifeng Li, Yu Qiao</li></ul>
 Deep Learning with Cpp
 <ul><li>https://laptrinhx.com/deep-neural-network-from-scratch-in-c-for-learning-purposes-1380712153/</li></ul>
+Navnit Kumar - 23/02/2021
